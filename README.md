@@ -134,7 +134,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@dhoke4tdb](https://github.com/dhoke4tdb/)
 * [@ihnorton](https://github.com/ihnorton/)
 * [@jdblischak](https://github.com/jdblischak/)
 * [@shelnutt2](https://github.com/shelnutt2/)
