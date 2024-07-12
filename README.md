@@ -16,7 +16,8 @@ Documentation: http://www.htslib.org/
 The conda binary m2w64-htslib bundles a pre-built htslib binary that was
 built under msys2. All dependencies are statically linked, with the
 exception of .DLLs provided by Windows. It is suitable for linking against
-in conda recipes that build using MSVC
+in conda recipes that build using MSVC. It does not have libcurl support,
+so cannot be used with S3 or GCS.
 
 
 Current build status
